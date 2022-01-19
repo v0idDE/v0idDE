@@ -2,7 +2,7 @@
 <h3 align="center">^^</h3>
 
 
-<p align="left"> <a href="https://twitter.com/v0idttv" target="blank"><img src="https://img.shields.io/twitter/follow/v0idttv?logo=twitter&style=for-the-badge" alt="v0idttv" /></a> </p>
+
 
 - 🔭 I’m currently working on [Multiple Plugins](https://ti2ga.de/plugins)
 
