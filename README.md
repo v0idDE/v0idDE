@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Multiple Plugins](https://ti2ga.de/plugins)
 
-- 🌱 I’m currently learning **Java, Java-Scrip, Python**
+- 🌱 I’m currently learning **Java, Java-Script, Python**
 
 - 👨‍💻 All of my projects are available at [https://ti2ga.de](https://ti2ga.de)
 
