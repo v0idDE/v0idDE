@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on [Multiple Plugins](https://ti2ga.de/plugins)
+- 🔭 I’m currently working on [???](https://hey-click.me)
 
-- 🌱 I’m currently learning **Java, Java-Script, Python**
+- 🌱 I’m currently learning **C#/Unity**
 
-- 👨‍💻 All of my projects are available at [https://ti2ga.de](https://ti2ga.de)
+- 👨‍💻 All of my projects are available at https://hey-click.me](https://ti2ga.de)
 
 - 📫 How to reach me **https://v0id.ga/discord**
 
