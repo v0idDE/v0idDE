@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#/Unity**
 
-- 👨‍💻 All of my projects are available at https://hey-click.me](https://ti2ga.de)
+- 👨‍💻 All of my projects are available at [https://hey-click.me](https://hey-click.me)
 
 - 📫 How to reach me **https://v0id.ga/discord**
 
