@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on [???](https://hey-click.me)
+- 🔭 I’m currently working on [**???**](https://hey-click.me)
 
 - 🌱 I’m currently learning **C#/Unity**
 
-- 👨‍💻 All of my projects are available at [https://hey-click.me](https://hey-click.me)
+- 👨‍💻 All of my projects are available at [**https://hey-click.me**](https://hey-click.me)
 
 - 📫 How to reach me **https://v0id.ga/discord**
 
